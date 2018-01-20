@@ -18,7 +18,7 @@ function draw() {
 
   if(style == 0){
   } else if (style == 1){
-     fill('#101010);
+     fill('#101010');
    }
 
        ellipse(mouseX, mouseY, 120, 120);
